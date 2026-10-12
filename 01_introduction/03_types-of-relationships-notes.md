@@ -107,4 +107,4 @@ The relationship type depends on how many entities can be associated on each sid
 
 ---
 
-*Source: Notes prepared from the provided video transcript, “Types of Relationships.”*
+``< || > this is crow's foot notation``
